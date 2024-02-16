@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Schiphol as a client
+- 🔭 I’m currently working at iO digital and for Schiphol as my client
 - 🌱 I’m currently learning to be a mentor for my team
 - 🤔 I’m looking for help with how to grow a technical team
 - 💬 Ask me about anything
