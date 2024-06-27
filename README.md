@@ -18,6 +18,9 @@
 - [LinkedIn](https://www.linkedin.com/in/arnokoehler/)
 - [X](https://x.com/arnokoehler)
 
+## Talks 
+
+- [Be(come) the lead dev](https://speakerdeck.com/arnokoehler/how-to-be-come-the-lead-dev-on-your-project)
 
 <!--
 **arnokoehler/arnokoehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
